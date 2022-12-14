@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-jesschadwick-typescript-tsessentialtraining",
+  "version": "1.0.0",
+  "description": "Learning TS for the first time!",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Out-A-Time/Tutorial-JessChadwick-TypeScript-TSEssentialTraining.git"
+  },
+  "author": "Out-A-Time",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Out-A-Time/Tutorial-JessChadwick-TypeScript-TSEssentialTraining/issues"
+  },
+  "homepage": "https://github.com/Out-A-Time/Tutorial-JessChadwick-TypeScript-TSEssentialTraining#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
